@@ -2,11 +2,11 @@
 
 ## Introduction
 
-In this assessment, you'll be provided an [API](https://fitnesstrac-kr.herokuapp.com/docs/)and a [GitHub repo](https://github.com/FullstackAcademy/program-guide-web-partnerships/tree/main/Unit-4/block34_Juicebox) with details for a full operational CRUD API that uses Express.JS, PostgreSQL, and other technologies that you've been trained on. 
+In this assessment, you'll be provided this GitHyb repo with details for a full operational CRUD API that uses Express.JS, PostgreSQL, and other technologies that you've been trained on. 
 
 ## Problems to Solve
 
-Begin this Career Simulation by cloning the [GitHub repo](https://github.com/FullstackAcademy/program-guide-web-partnerships/tree/main/Unit-4/block34_Juicebox), installing dependencies, providing environmental variables to connect your database, and running the server. From here, you'll encounter four problems that you'll need to solve. See problems below:
+Begin this Career Simulation by cloning the GitHub repo, installing dependencies, providing environmental variables to connect your database, and running the server. From here, you'll encounter four problems that you'll need to solve. See problems below:
 
 ### Problem 1: Repair Database Schema
 
