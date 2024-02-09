@@ -13,7 +13,7 @@ usersRouter.get('/', async (req, res, next) => {
   try {
     const users = await getAllUsers();
   
-    res.send({
+    res.json({
       users
     });
   } catch ({ name, message }) {
