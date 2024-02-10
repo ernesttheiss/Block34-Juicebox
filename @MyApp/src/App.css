@@ -1,0 +1,13 @@
+.post {
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+.post h2 {
+  margin-bottom: 5px;
+}
+
+.post p {
+  margin-bottom: 10px;
+}
